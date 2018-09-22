@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This is a space for all of the projects I have worked and will continually work one. As someone with an intense curiosty for all things data, this portfolio is constantly getting updated as I find new and interesting data to explore. Click on the 
+This is a space for all of the projects I have worked and will continually work one. As someone with an intense curiosty for all things data, this portfolio is constantly getting updated as I find new and interesting data to explore. Click on the projects to see full analyses and code
 
 ## Projects:
 
