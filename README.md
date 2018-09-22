@@ -22,7 +22,7 @@ This is a space for all of the projects I have worked and will continually work 
 * EDA of medical appointment dataset originally from kaggle (https://www.kaggle.com/joniarroba/noshowappointments)
 * Study looks into several factors affecting whether patients will show up for appointment or not
 * For now is more of a data visualization exercise: will revisit to utilize machine learning to accurately predict no-shows
-
+<img src="No-Show%20Doctor%20Appointments/No%20Show%20Rates%20For%20Different%20Age%20Groups.png" width="500">
 ---
 
 
