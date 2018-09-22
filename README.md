@@ -9,6 +9,7 @@ This is a space for all of the projects I have worked and will continually work 
 * Framework for how to handle SQLite database in Python
 * Analysis of Premier League over 8 seasons
 * Will definitely revisit multiple times for other correlation exploration and match predicting
+<img src="Soccer%20Database/Avg%20Num%20of%20GF,%20GA,%20GD.png" width="500">
 
 ### [A/B Test For E-Commerce Website](link)
 * Study to find out if a website should deploy new page or keep original design
