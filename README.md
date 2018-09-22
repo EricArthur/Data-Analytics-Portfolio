@@ -4,6 +4,12 @@ This is a space for all of the projects I have worked and will continually work 
 
 ## Projects:
 
+### [Soccer Database - EPL](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Soccer%20Database/Soccer%20Database%20-%20EDA.ipynb)
+* European soccer database originally from Kaggle (https://www.kaggle.com/hugomathien/soccer)
+* Framework for how to handle SQLite database in Python
+* Analysis of Premier League over 8 seasons
+* Will definitely revisit multiple times for other correlation exploration and match predicting
+
 ### [A/B Test For E-Commerce Website](link)
 * Study to find out if a website should deploy new page or keep original design
 * Display of different ways to perform analysis, through bootstrap sampling with replacement and utilization of statsmodel.api
@@ -14,11 +20,8 @@ This is a space for all of the projects I have worked and will continually work 
 ### [Predicting No-Show Patients](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/No-Show%20Doctor%20Appointments/Medical%20Appointments.ipynb)
 * EDA of medical appointment dataset originally from kaggle (https://www.kaggle.com/joniarroba/noshowappointments)
 * Study looks into several factors affecting whether patients will show up for appointment or not
+* For now is more of a data visualization exercise: will revisit to utilize machine learning to accurately predict no-shows
 
 ---
 
-### [Soccer Database - EPL](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Soccer%20Database/Soccer%20Database%20-%20EDA.ipynb)
-* European soccer database originally from Kaggle (https://www.kaggle.com/hugomathien/soccer)
-* Framework for how to handle SQLite database in Python
-* Analysis of Premier League over 8 seasons
-* Will definitely revisit multiple times for other correlation exploration and match predicting
+
