@@ -4,6 +4,12 @@ This is a space for all of the projects I have worked and will continually work 
 
 ## Projects:
 
+### [NLP - Text Mining](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/NLP%20Text%20Mining/NLP%20-%20Text%20Mining.ipynb)
+* Project that came about as a way to create word cloud of all of the texts between my girlfriend and I over the course of our relationship
+* Utilized text-mining and NLP techniques to properly analyze and present data
+* Was great exposure to working with a different/new form of data to me (text message/phone backup)
+<img src="NLP%20Text%20Mining/Word%20Cloud.jpg" width="500">
+
 ### [Soccer Database - EPL](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Soccer%20Database/Soccer%20Database%20-%20EDA.ipynb)
 * European soccer database originally from Kaggle (https://www.kaggle.com/hugomathien/soccer)
 * Framework for how to handle SQLite database in Python
