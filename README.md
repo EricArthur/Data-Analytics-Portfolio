@@ -3,6 +3,7 @@
 This is a space for all of the projects I have worked and will continually work one. As someone with an intense curiosty for all things data, this portfolio is constantly getting updated as I find new and interesting data to explore. Click on the projects to see full analyses and code
 
 ## Projects:
+---
 
 ### [NLP - Text Mining](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/NLP%20Text%20Mining/NLP%20-%20Text%20Mining.ipynb)
 * Project that came about as a way to create word cloud of all of the texts between my girlfriend and I over the course of our relationship
@@ -10,12 +11,16 @@ This is a space for all of the projects I have worked and will continually work 
 * Was great exposure to working with a different/new form of data to me (text message/phone backup)
 <img src="NLP%20Text%20Mining/Word%20Cloud.jpg" width="500">
 
+---
+
 ### [Soccer Database - EPL](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Soccer%20Database/Soccer%20Database%20-%20EDA.ipynb)
 * European soccer database originally from Kaggle (https://www.kaggle.com/hugomathien/soccer)
 * Framework for how to handle SQLite database in Python
 * Analysis of Premier League over 8 seasons
 * Will definitely revisit multiple times for other correlation exploration and match predicting
 <img src="Soccer%20Database/Avg%20Num%20of%20GF,%20GA,%20GD.png" width="500">
+
+---
 
 ### [A/B Test For E-Commerce Website](link)
 * Study to find out if a website should deploy new page or keep original design
@@ -29,6 +34,6 @@ This is a space for all of the projects I have worked and will continually work 
 * Study looks into several factors affecting whether patients will show up for appointment or not
 * For now is more of a data visualization exercise: will revisit to utilize machine learning to accurately predict no-shows
 <img src="No-Show%20Doctor%20Appointments/No%20Show%20Rates%20For%20Different%20Age%20Groups.png" width="500">
----
+
 
 
