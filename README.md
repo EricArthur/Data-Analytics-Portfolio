@@ -3,7 +3,6 @@
 This is a space for all of the projects I have worked and will continually work one. As someone with an intense curiosty for all things data, this portfolio is constantly getting updated as I find new and interesting data to explore. Click on the projects to see full analyses and code
 
 ## Projects:
----
 
 ### [NLP - Text Mining](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/NLP%20Text%20Mining/NLP%20-%20Text%20Mining.ipynb)
 * Project that came about as a way to create word cloud of all of the texts between my girlfriend and I over the course of our relationship
