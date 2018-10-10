@@ -21,7 +21,7 @@ This is a space for all of the projects I have worked on. As someone with an int
 
 ---
 
-### [A/B Test For E-Commerce Website](link)
+### [A/B Test For E-Commerce Website](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/A-B%20Test/A-B%20Test%20For%20E-Commerce%20Website.ipynb)
 * Study to find out if a website should deploy new page or keep original design
 * Display of different ways to perform analysis, through bootstrap sampling with replacement and utilization of statsmodel.api
 * Statsmodel.api also used for fitting of logistic regression model
