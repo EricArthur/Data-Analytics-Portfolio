@@ -17,7 +17,7 @@ This is a space for all of the projects I have worked on. As someone with an int
 * Imported data into SQLite
 * Designed a normalized database schema
 * Created and inserted tables into schema
-<img src="/MLB%20Database/images/MLBdb_schema.PNG" width="500">
+<img src="/MLB%20Database/images/MLBdb_schema.PNG" width="800">
 
 ---
 
