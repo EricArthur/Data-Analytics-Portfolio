@@ -12,6 +12,15 @@ This is a space for all of the projects I have worked on. As someone with an int
 
 ---
 
+### [Designing & Creating a Database - MLB](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/MLB%20Database/Designing%20%26%20Creating%20a%20Database.ipynb)
+* Created using file of Major League Baseball games from Retrosheet (https://www.retrosheet.org)
+* Imported data into SQLite
+* Designed a normalized database schema
+* Created and inserted tables into schema
+<img src="/MLB%20Database/images/MLBdb_schema.PNG" width="500">
+
+---
+
 ### [Soccer Database - EPL](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Soccer%20Database/Soccer%20Database%20-%20EDA.ipynb)
 * European soccer database originally from Kaggle (https://www.kaggle.com/hugomathien/soccer)
 * Framework for how to handle SQLite database in Python
