@@ -30,7 +30,7 @@ This is a space for all of the projects I have worked on. As someone with an int
 
 ---
 
-### [Finding the Best Two Markets to Advertise In](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Two%20Best%20Markets%20to%20Advertise%20In.ipynb)
+### [Finding the Best Markets to Advertise In](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Two%20Best%20Markets%20to%20Advertise%20In.ipynb)
 * Goal: As an analyst for an e-learning company, determine the two best markets to run ad campaigns in
 * Utilized freeCodeCamp's 2017 New Coder Survey as datasource
 <img src ="Finding%20the%20Best%20Markets%20to%20Advertise%20In/monthly%20money%20spent%20per%20county.png" width="500">
