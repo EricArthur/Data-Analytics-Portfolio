@@ -30,6 +30,13 @@ This is a space for all of the projects I have worked on. As someone with an int
 
 ---
 
+### [Finding the Best Two Markets to Advertise In](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Two%20Best%20Markets%20to%20Advertise%20In.ipynb)
+* Goal: As an analyst for an e-learning company, determine the two best markets to run ad campaigns in
+* Utilized freeCodeCamp's 2017 New Coder Survey as datasource
+<img src ="Finding%20the%20Best%20Markets%20to%20Advertise%20In/monthly%20money%20spent%20per%20county.png" width="500">
+
+---
+
 ### [A/B Test For E-Commerce Website](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/A-B%20Test/A-B%20Test%20For%20E-Commerce%20Website.ipynb)
 * Study to find out if a website should deploy new page or keep original design
 * Display of different ways to perform analysis, through bootstrap sampling with replacement and utilization of statsmodel.api
