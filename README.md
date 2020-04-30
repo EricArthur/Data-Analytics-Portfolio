@@ -5,7 +5,7 @@ This is a space for all of the projects I have worked on. As someone with an int
 ## Projects:
 
 ### [Youtube to Spotify Playlist](https://github.com/EricArthur/Data-Analytics-Portfolio/tree/master/YoutubeToSpotifyPlaylist)
-* create_playlist.py is a script that takes your liked videos from Youtube and creates a new playlist in Spotify
+* create_playlist.py is a script that takes your liked videos from Youtube and adds them to a newly created playlist in Spotify
 * Utilized APIs to access and create data between apps
 * Great lesson in learning to interact with multiple APIs and juggling credentials/secrets in order to access needed data
 <img src="YoutubeToSpotifyPlaylist/youtube-to-spotify.jpg" width="500">
