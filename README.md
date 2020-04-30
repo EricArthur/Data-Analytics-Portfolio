@@ -4,8 +4,16 @@ This is a space for all of the projects I have worked on. As someone with an int
 
 ## Projects:
 
+### [Youtube to Spotify Playlist](https://github.com/EricArthur/Data-Analytics-Portfolio/tree/master/YoutubeToSpotifyPlaylist)
+* create_playlist.py is a script that takes your liked videos from Youtube and creates a new playlist in Spotify
+* Utilized APIs to access and create data between apps
+* Great lesson in learning to interact with multiple APIs and juggling credentials/secrets in order to access needed data
+<img src="YoutubeToSpotifyPlaylist/youtube-to-spotify.jpg" width="500">
+
+---
+
 ### [NLP - Text Mining](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/NLP%20Text%20Mining/NLP%20-%20Text%20Mining.ipynb)
-* Project that came about as a way to create word cloud of all of the texts between my girlfriend and I over the course of our relationship
+* Started as an aniversary gift to my girlfriend for our first year of dating
 * Utilized text-mining and NLP techniques to properly analyze and present data
 * Was great exposure to working with a different/new form of data to me (text message/phone backup)
 <img src="NLP%20Text%20Mining/Word%20Cloud.jpg" width="500">
