@@ -23,7 +23,7 @@ Dimension tables
 - dim_submission_channel: How the service was requested (phone, online, etc.)
 
 <h3>ETL Overview:</h3>
-- 311 Requests are collected from the SODA API and migrated into an S3 bucket
+311 Requests are collected from the SODA API and migrated into an S3 bucket
 - Once migration is complete, data is moved into a raw schema in RDS and subsequentially moves through staging schema for processing
 - Upon completion of processing, data is moved into the final production tables
 
