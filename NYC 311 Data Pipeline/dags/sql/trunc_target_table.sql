@@ -1,0 +1,1 @@
+TRUNCATE TABLE raw.service_request;
