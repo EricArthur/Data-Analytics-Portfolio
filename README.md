@@ -4,6 +4,14 @@ This is a space for all of the projects I have worked on. As someone with an int
 
 ## Projects:
 
+### [NYC 311 Data Pipeline](https://github.com/EricArthur/Data-Analytics-Portfolio/tree/master/NYC%20311%20Data%20Pipeline)
+* Fully orchestrated data pipeline via Airflow and housed within AWS ecosystem
+* Data is sourced from NYC's Open Data API, migrated into an S3 bucket, and finally into a data warehouse hoseted on RDS
+* Transformations occur and progress data through staging schema before finally being placed into production tables
+<img src="NYC 311 Data Pipeline/images/nyc_311_pipeline.png" width="500">
+
+---
+
 ### [Youtube to Spotify Playlist](https://github.com/EricArthur/Data-Analytics-Portfolio/tree/master/YoutubeToSpotifyPlaylist)
 * create_playlist.py is a script that takes your liked videos from Youtube and adds them to a newly created playlist in Spotify
 * Utilized APIs to access and create data between apps
@@ -42,13 +50,6 @@ This is a space for all of the projects I have worked on. As someone with an int
 * As an analyst for an e-learning company, determined the two best markets to run ad campaigns in
 * Utilized freeCodeCamp's 2017 New Coder Survey as datasource
 <img src ="Finding%20the%20Best%20Markets%20to%20Advertise%20In/monthly%20money%20spent%20per%20county.png" width="500">
-
----
-
-### [A/B Test For E-Commerce Website](https://github.com/EricArthur/Data-Science-Portfolio/blob/master/A-B%20Test/A-B%20Test%20For%20E-Commerce%20Website.ipynb)
-* Study to find out if a website should deploy new page or keep original design
-* Display of different ways to perform analysis, through bootstrap sampling with replacement and utilization of statsmodel.api
-* Statsmodel.api also used for fitting of logistic regression model
 
 ---
 
