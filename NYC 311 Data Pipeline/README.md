@@ -37,4 +37,4 @@ The incremental load DAG uses XCom to pass the filesize of the load between the 
 
 A few additional resources that can be implemented into the pipeline/architecture are...
 - A number of additional data sources that could prove to be useful (demographic or weather info)
-- A BI/Data Viz component for proper analysis (Metabase)
+- A BI/Data Viz component for proper analysis. Metabase could be a good open source option here
