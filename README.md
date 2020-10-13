@@ -6,7 +6,7 @@ This is a space for all of the projects I have worked on. As someone with an int
 
 ### [NYC 311 Data Pipeline](https://github.com/EricArthur/Data-Analytics-Portfolio/tree/master/NYC%20311%20Data%20Pipeline)
 * Fully orchestrated data pipeline via Airflow and housed within AWS ecosystem
-* Data is sourced from NYC's Open Data API, migrated into an S3 bucket, and finally into a data warehouse hoseted on RDS
+* Data is sourced from NYC's Open Data API, migrated into an S3 bucket, and finally into a data warehouse hosted on RDS
 * Transformations occur and progress data through staging schema before finally being placed into production tables
 <img src="NYC 311 Data Pipeline/images/nyc_311_pipeline.png" width="500">
 
